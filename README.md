@@ -8,8 +8,9 @@ This application still uses dummy data
 
 Can only be run on android
 
-Intro Page
+Intro Page--
 ![Screenshot_1675579034](https://user-images.githubusercontent.com/55611402/216805502-406cef1a-46a3-4e3f-a900-3dd2af1a67e3.png)
+Home Page--
 ![Screenshot_1675579088](https://user-images.githubusercontent.com/55611402/216805499-58873db1-02ec-4446-91c1-e42a8a1e8bdf.png)
 
 
