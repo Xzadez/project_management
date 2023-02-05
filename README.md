@@ -10,7 +10,7 @@ Can only be run on android
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you don't have flutter, please install it first as explained below
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -20,6 +20,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+if you have installed it let's continue below
 
 Unzip this
 then put it in vscode, write in terminal
