@@ -8,6 +8,10 @@ This application still uses dummy data
 
 Can only be run on android
 
+![Screenshot_1675579034](https://user-images.githubusercontent.com/55611402/216805422-a1b8986b-4b3f-4111-8990-0e4876ab8fa4.png)
+![Screenshot_1675579088](https://user-images.githubusercontent.com/55611402/216805424-33a5e96a-9a35-419c-acfd-18b7ed971213.png)
+
+
 ## Getting Started
 
 => If you don't have flutter, please install it first as explained below
