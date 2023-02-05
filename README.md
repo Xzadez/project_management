@@ -1,10 +1,10 @@
 # project_management
 
-A new Flutter project.
+Project management application with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application still uses dummy data
 
 A few resources to get you started if this is your first Flutter project:
 
