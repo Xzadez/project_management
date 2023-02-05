@@ -8,8 +8,8 @@ This application still uses dummy data
 
 Can only be run on android
 
-![Screenshot_1675579034](https://user-images.githubusercontent.com/55611402/216805422-a1b8986b-4b3f-4111-8990-0e4876ab8fa4.png)
-![Screenshot_1675579088](https://user-images.githubusercontent.com/55611402/216805424-33a5e96a-9a35-419c-acfd-18b7ed971213.png)
+![Screenshot_1675579088](https://user-images.githubusercontent.com/55611402/216805499-58873db1-02ec-4446-91c1-e42a8a1e8bdf.png)
+![Screenshot_1675579034](https://user-images.githubusercontent.com/55611402/216805502-406cef1a-46a3-4e3f-a900-3dd2af1a67e3.png)
 
 
 ## Getting Started
