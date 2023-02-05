@@ -2,7 +2,7 @@
 
 Project management application with Flutter
 
-## Getting Started
+## About he App
 
 This application still uses dummy data
 
