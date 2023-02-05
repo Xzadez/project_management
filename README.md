@@ -9,9 +9,9 @@ This application still uses dummy data
 Can only be run on android
 
 Intro Page<br/>
-![Screenshot_1675579034](https://user-images.githubusercontent.com/55611402/216805502-406cef1a-46a3-4e3f-a900-3dd2af1a67e3.png)<br/>
+![Screenshot_1675579034](https://user-images.githubusercontent.com/55611402/216805771-ec0282e2-4fb2-43f0-bc20-e0b4b973f9d6.png)<br/>
 Home Page<br/>
-![Screenshot_1675579088](https://user-images.githubusercontent.com/55611402/216805499-58873db1-02ec-4446-91c1-e42a8a1e8bdf.png)
+![Screenshot_1675579088](https://user-images.githubusercontent.com/55611402/216805777-d43caa89-27d0-4fb2-8349-5798fab54f9c.png)
 
 ## Getting Started
 
