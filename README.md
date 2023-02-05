@@ -7,3 +7,5 @@ Project management application with Flutter
 This application still uses dummy data
 
 Can only be run on android
+
+## Getting Started
