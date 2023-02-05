@@ -1,6 +1,6 @@
 # project_management
 
-Project management application with Flutter
+Project management application with Flutter<br/>
 This app is completely unfinished
 
 ## About he App
