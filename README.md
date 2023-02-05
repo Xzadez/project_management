@@ -20,3 +20,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Unzip this
+then put it in vscode, write in terminal
+```
+flutter pub get
+```
+
+then press f5 to run the application or write to the terminal
+```
+flutter run
+```
